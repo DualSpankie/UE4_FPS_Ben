@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CPP_FPS_Packaged/WindowsNoEditor/CPP_FPS/Content/Paks/CPP_FPS-WindowsNoEditor.pak
